@@ -2,7 +2,7 @@
 
 # 📊 GitHub Stats:
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=arturpilavetz&theme=dark&date_format=%5BY.%5Dn.j&fire=EB5454&hide_current_streak=true" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=arturpilavetz&theme=cobalt2&date_format=%5BY.%5Dn.j&fire=EB5454&hide_current_streak=true" alt="GitHub Streak" /></a>
 <!--
 **arturpilavetz/arturpilavetz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ## Hi there 👋
